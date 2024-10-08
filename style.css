@@ -1,0 +1,84 @@
+/* This is nav bar star */
+
+.nav-item {
+  justify-content: center;
+}
+nav {
+  background-color: #1b0c4d;
+}
+.navBtn {
+  margin-left: 10px;
+}
+.navItm {
+  color: white;
+}
+.active {
+  color: yellow;
+}
+.logo {
+  color: white;
+}
+
+.header {
+  background-color: #160a3a;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.heroCode {
+  color: #eae34a;
+  text-decoration: underline;
+}
+.heronText {
+  color: white;
+}
+.btn-info {
+  background-color: #4f2bbd;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+/* This is skills section */
+.together {
+  color: #4b28b5;
+}
+.skillsSection {
+  border: none;
+  justify-content: center;
+}
+.skillsBtn {
+  border: 1px solid black;
+}
+.container {
+  margin-top: 60px;
+}
+.larning {
+  border: none;
+}
+
+.info {
+  background-color: #2b0d57;
+  align-items: center;
+  justify-content: center;
+}
+.card-img-top {
+  width: 127px;
+  height: 216px;
+  padding: 20px;
+}
+/* Our Top Categories star  */
+.categories {
+  padding-top: 50px;
+
+  color: white;
+  background-color: #2b0d57;
+  text-align: center;
+}
+.Popular {
+  padding-top: 50px;
+}
+.card-group {
+  gap: 50px;
+}
+.popularHeading{
+    margin-bottom: 10px;
+}
