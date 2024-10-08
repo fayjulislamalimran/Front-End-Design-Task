@@ -31,6 +31,9 @@ nav {
 .heronText {
   color: white;
 }
+.headerInfo{
+    align-self: center;
+}
 .btn-info {
   background-color: #4f2bbd;
   color: white;
@@ -54,7 +57,6 @@ nav {
 .larning {
   border: none;
 }
-
 .info {
   background-color: #2b0d57;
   align-items: center;
